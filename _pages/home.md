@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-# About Me
+<!-- # About Me -->
 ---
 I am a Ph.D student advised by [Kyunghan Lee](https://nxc.snu.ac.kr/people/advisor) in the Department of Electrical and Computer Engineering at Seoul National University. I'm currently in the [Networked Computing Lab (NXC)](https://nxc.snu.ac.kr/home). My research interests are 
 mobile computing, mobile deep learning and split computing.
