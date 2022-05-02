@@ -107,7 +107,7 @@ author:
   location         : "Seoul, South Korea"
   email            : kmbin@snu.ac.kr
   links:
-    # - label: "Email"
+    - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:kmbin@snu.ac.kr"
     # - label: "Website"
