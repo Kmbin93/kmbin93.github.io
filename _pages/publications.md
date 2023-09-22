@@ -9,7 +9,7 @@ last_modified_at: 2022-05-02 11:11:00
 # tags: [publication]
 ---
 
-* <span style="color:red">\[Conference\]</span> Jongseok Park, Kyunbmin Bin, Gibum Park, Sangtae Ha, and Kyunghan Lee, "ASPEN: Breaking Operator Barriers for Efficient Parallelization of Deep Neural Networks," NeurIPS (Acceptance Rate: 26.1%=3222/12343), New Orleans, LA, 2023.
+* <span style="color:red">\[Conference\]</span> Jongseok Park, ***Kyunbmin Bin***, Gibum Park, Sangtae Ha, and Kyunghan Lee, "ASPEN: Breaking Operator Barriers for Efficient Parallelization of Deep Neural Networks," NeurIPS (Acceptance Rate: 26.1%=3222/12343), New Orleans, LA, 2023.
 
 * <span style="color:red">\[Conference\]</span> Seyeon Kim, ***Kyungmin Bin***, Donggyu Yang, Sangtae Ha, Song Chong, and Kyunghan Lee, "ENTRO: Tackling the Encoding and Networking Trade-off in Offloaded Video Analytics." in ACM Multimedia (Acceptance Rate: 29.3%=902/3072), Ottawa, Canad, 2023.
 
