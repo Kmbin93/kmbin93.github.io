@@ -9,6 +9,8 @@ mobile computing, mobile deep learning and split computing.
 
 # News
 ---
+* [2023.09.22] The paper on coactive neural network inference offloading. ***"CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution"*** has been accepted to **ACM MobiSys 2024** (Acceptance Rate: 16.3%=43/263).
+
 * [2023.09.22] The paper on opportunistic parallelism for dynamic computation of neural nerworks. ***"ASPEN: Breaking Operator Barriers for Efficient Parallelization of Deep Neural Networks"*** has been accepted to **NeurIPS 2023 (poster)**.
 
 * [2023.07.26] The paper on offloaded computing, ***"ENTRO: Tackling the Encoding and Networking Trade-off in Offloaded Video Analytics"*** has been accepted to **ACM Multimedia (MM) 23**.

@@ -4,10 +4,11 @@ layout: single
 author_profile: true
 title: "Publications"
 excerpt: "publications.md"
-last_modified_at: 2022-05-02 11:11:00
+last_modified_at: 2024-03-11 10:40:00
 # toc: true
 # tags: [publication]
 ---
+* <span style="color:red">\[Conference\]</span> ***Kyungmin Bin***, Jongseok Park, Chanjeong Park, Seyeon Kim, and Kyunghan Lee, "CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution," ACM MobiSys (Acceptance Rate: 16.3%=43/263), Tokyo, Japan, 2024. 
 
 * <span style="color:red">\[Conference\]</span> Jongseok Park, ***Kyunbmin Bin***, Gibum Park, Sangtae Ha, and Kyunghan Lee, "ASPEN: Breaking Operator Barriers for Efficient Parallelization of Deep Neural Networks," NeurIPS (Acceptance Rate: 26.1%=3222/12343), New Orleans, LA, 2023.
 
