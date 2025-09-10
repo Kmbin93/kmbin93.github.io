@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Kyungmin Bin"
 title_separator          : "-"
-subtitle                 : Networked Computing Lab in SNU # site tagline that appears below site title in masthead
+subtitle                 : Samsung SDS # site tagline that appears below site title in masthead
 name                     : "Kyungmin Bin"
-description              : "Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University."
+description              : "Senior Engineer in High Performance Computing Lab at Samsung SDS Research."
 url                      : https://kmbin93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Kyungmin Bin"
-  avatar           : /assets/images/Profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Ph.D student in the Department of Electrical and Computer Engineering at Seoul National University."
+  avatar           : /assets/images/Profile_v2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a senior engineer in High Performance Computing Research Lab at Samsung SDS Research."
   location         : "Seoul, South Korea"
-  email            : kmbin@snu.ac.kr
+  email            : kyungmin.bin@samsung.com
   links:
     - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
