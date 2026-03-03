@@ -8,6 +8,8 @@ I am a senior engineer in High Performance Computing Research Lab at [Samsung SD
 
 # News
 ---
+* [2026.03] Selected for the Artefact Evaluation Committee of [**ACM MobiSys 2026**](https://www.sigmobile.org/mobisys/2026/).
+
 * [2025.03] I joined at Samsung SDS Research.
 
 * [2024.12] The paper on timely DNN processing for mobile platforms. ***"NeuroBalancer: Balancing System Frequencies with Punctual Laziness for Timely and Energy-efficient DNN Inferences"*** has been accepted to **IEEE Transactions on Mobile Computing (TMC)** (IF: 7.7).
