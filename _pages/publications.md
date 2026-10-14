@@ -9,7 +9,7 @@ last_modified_at: 2026-10-14
 # tags: [publication]
 ---
 
-* <span style="color:#33BAFF">\[Journal\]</span> Wonjun Bang, Jongseok Park, Hongseung Yu, Sanghyun Han, ***Kyungmin Bin***, and Kyunghan Lee, "BVSR: BitVector-Sum Representation for Distribution-Aware LLM Weight Quantization," Neurocomputing (to appear).
+* <span style="color:#33BAFF">\[Journal\]</span> Wonjun Bang, Jongseok Park, Hongseung Yu, Sanghyun Han, ***Kyungmin Bin***, and Kyunghan Lee, "BVSR: BitVector-Sum Representation for Distribution-Aware LLM Weight Quantization," Neurocomputing (IF: 6.7), vol. 709, article 135315, January 2027. [paper](https://doi.org/10.1016/j.neucom.2026.135315)
 
 * <span style="color:red">\[Conference\]</span> Daehyeon Baek, Jaeyoung Choi, Jieun Choi, Jimyoung Son, ***Kyungmin Bin***, Seungbeom Choi, Kihyo Moon, Minsung Jang, and Hyojung Lee, "FServe: FP8-Native W4A8KV4 Quantization and Attention Kernel Optimization for Efficient LLM Serving," EMNLP 2026.
 
