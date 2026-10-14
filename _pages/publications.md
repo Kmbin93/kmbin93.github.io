@@ -4,10 +4,14 @@ layout: single
 author_profile: true
 title: "Publications"
 excerpt: "publications.md"
-last_modified_at: 2025-09-08 23:31:00
+last_modified_at: 2026-10-14
 # toc: true
 # tags: [publication]
 ---
+
+* <span style="color:#33BAFF">\[Journal\]</span> Wonjun Bang, Jongseok Park, Hongseung Yu, Sanghyun Han, ***Kyungmin Bin***, and Kyunghan Lee, "BVSR: BitVector-Sum Representation for Distribution-Aware LLM Weight Quantization," Neurocomputing (to appear).
+
+* <span style="color:red">\[Conference\]</span> Daehyeon Baek, Jaeyoung Choi, Jieun Choi, Jimyoung Son, ***Kyungmin Bin***, Seungbeom Choi, Kihyo Moon, Minsung Jang, and Hyojung Lee, "FServe: FP8-Native W4A8KV4 Quantization and Attention Kernel Optimization for Efficient LLM Serving," EMNLP 2026.
 
 * <span style="color:#33BAFF">\[Journal\]</span> ***Kyungmin Bin***, Seyeon Kim, Sangtae Ha, Song Chong, and Kyunghan Lee*, "NeuroBalancer: Balancing System Frequencies with Punctual Laziness for Timely and Energy-efficient DNN Inferences," IEEE Transactions on Mobile Computing (IF: 7.7), vol. 24, no. 5, pp. 4339-4354, May 2025.
 
