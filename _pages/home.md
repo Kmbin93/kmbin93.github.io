@@ -8,9 +8,9 @@ I am a senior engineer in High Performance Computing Research Lab at [Samsung SD
 
 # News
 ---
-* [2026.10] Our paper ***"BVSR: BitVector-Sum Representation for Distribution-Aware LLM Weight Quantization"*** is now available online in **Neurocomputing** (IF: 6.7). [Paper](https://doi.org/10.1016/j.neucom.2026.135315)
+* [2026.10] Our paper ***"BVSR: BitVector-Sum Representation for Distribution-Aware LLM Weight Quantization"*** has been accepted to **Neurocomputing** (IF: 6.7).
 
-* [2026.09] Our paper ***"FServe: FP8-Native W4A8KV4 Quantization and Attention Kernel Optimization for Efficient LLM Serving"*** has been accepted to **EMNLP 2026**. [Details](/publications/)
+* [2026.09] Our paper ***"FServe: FP8-Native W4A8KV4 Quantization and Attention Kernel Optimization for Efficient LLM Serving"*** has been accepted to **EMNLP 2026**.
 
 * [2026.03] Selected for the Artefact Evaluation Committee of [**ACM MobiSys 2026**](https://www.sigmobile.org/mobisys/2026/).
 
